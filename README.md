@@ -1,7 +1,8 @@
-# Sistema Bancário V1 - DIO Bootcamp
+# Sistema Bancário V2 - DIO Bootcamp
 
-Criação de sistema com 3 operações: Deposito, Saque e Extrato
-![image](https://github.com/user-attachments/assets/03374af6-a92f-4e0f-af9a-56558b339caf)
+Adicionado sistema de criação de usuário, criação de conta e listagem de conta. Todas as funções estão definidas em seu proprio escopo com o codigo muito mais organizado
+
+![image](https://github.com/user-attachments/assets/5512bbd3-2022-4785-b64f-eae75dd8f0e7)
 
 ## Deposito
 O usuário não deverá conseguir inserir valores negativos (-1), retornando uma mensagem de erro se isso ocorrer
